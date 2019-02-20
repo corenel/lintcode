@@ -1,15 +1,17 @@
 """
 Compare Strings
----
+---------------
 
 Compare two strings A and B, determine whether A contains all of the
 characters in B.
 
 Notice
+
 - The characters in string A and B are all Upper Case letters.
 - The characters of B in A are not necessary continuous or ordered.
 
 Example:
+
 - For A = "ABCD", B = "ACD", return true.
 - For A = "ABCD", B = "AABC", return false.
 """
@@ -18,22 +20,22 @@ import unittest
 from collections import defaultdict
 
 
-def compare_strings(A, B):
+def compare_strings(s, t):
     """
     Compare two strings A and B, determine whether A contains all of
     the characters in B.
 
-    :param A: a string includes Upper Case letters
-    :type A: str
-    :param B: a string includes Upper Case letters
-    :type B: str
-    :return:
-    :rtype: whether or not string A contains all of the characters in B
+    :param s: a string includes Upper Case letters
+    :type s: str
+    :param t: a string includes Upper Case letters
+    :type t: str
+    :return: whether or not string A contains all of the characters in B
+    :rtype: bool
     """
     char_dict = defaultdict(int)
-    for char in A:
+    for char in s:
         char_dict[char] += 1
-    for char in B:
+    for char in t:
         if char not in char_dict:
             return False
         char_dict[char] -= 1
