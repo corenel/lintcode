@@ -13,6 +13,12 @@ Note:
 
 - All inputs will be in lowercase.
 - The order of your output does not matter.
+
+Reference:
+
+- https://algorithm.yuanbin.me/zh-hans/string/group_anagrams.html
+- https://leetcode.com/problems/anagrams/
+- http://www.lintcode.com/en/problem/anagrams/
 """
 
 import unittest
