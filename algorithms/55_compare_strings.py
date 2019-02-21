@@ -6,19 +6,16 @@ Compare two strings A and B, determine whether A contains all of the
 characters in B.
 
 Notice:
-
-- The characters in string A and B are all Upper Case letters.
-- The characters of B in A are not necessary continuous or ordered.
+    - The characters in string A and B are all Upper Case letters.
+    - The characters of B in A are not necessary continuous or ordered.
 
 Example:
-
-- For A = "ABCD", B = "ACD", return true.
-- For A = "ABCD", B = "AABC", return false.
+    - For A = "ABCD", B = "ACD", return true.
+    - For A = "ABCD", B = "AABC", return false.
 
 Reference:
-
-- https://algorithm.yuanbin.me/zh-hans/string/compare_strings.html
-- http://www.lintcode.com/en/problem/compare-strings/
+    - https://algorithm.yuanbin.me/zh-hans/string/compare_strings.html
+    - http://www.lintcode.com/en/problem/compare-strings/
 """
 
 import unittest

@@ -11,24 +11,21 @@ Note:
     This is different with sub-sequence.
 
 Example 1:
-
-- Input:  "ABCD" and "CBCE"
-- Output:  2
-- Explanation: Longest common substring is "BC"
+    - Input:  "ABCD" and "CBCE"
+    - Output:  2
+    - Explanation: Longest common substring is "BC"
 
 Example 2:
-
-- Input: "ABCD" and "EACB"
-- Output:  1
-- Explanation: Longest common substring is 'A' or 'C' or 'B'
+    - Input: "ABCD" and "EACB"
+    - Output:  1
+    - Explanation: Longest common substring is 'A' or 'C' or 'B'
 
 Challenge:
     O(n x m) time and memory.
 
 Reference:
-
-- https://algorithm.yuanbin.me/zh-hans/string/longest_common_substring.html
-- http://www.lintcode.com/en/problem/longest-common-substring/
+    - https://algorithm.yuanbin.me/zh-hans/string/longest_common_substring.html
+    - http://www.lintcode.com/en/problem/longest-common-substring/
 """
 
 import unittest

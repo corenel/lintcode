@@ -5,20 +5,17 @@ Group Anagrams
 Given an array of strings, group anagrams together.
 
 LintCode Example:
-
-- Given ['lint', 'intl', 'inlt', 'code'], return ['lint', 'inlt', 'intl'].
-- Given ['ab', 'ba', 'cd', 'dc', 'e'], return ['ab', 'ba', 'cd', 'dc'].
+    - Given ['lint', 'intl', 'inlt', 'code'], return ['lint', 'inlt', 'intl'].
+    - Given ['ab', 'ba', 'cd', 'dc', 'e'], return ['ab', 'ba', 'cd', 'dc'].
 
 Note:
-
-- All inputs will be in lowercase.
-- The order of your output does not matter.
+    - All inputs will be in lowercase.
+    - The order of your output does not matter.
 
 Reference:
-
-- https://algorithm.yuanbin.me/zh-hans/string/group_anagrams.html
-- https://leetcode.com/problems/anagrams/
-- http://www.lintcode.com/en/problem/anagrams/
+    - https://algorithm.yuanbin.me/zh-hans/string/group_anagrams.html
+    - https://leetcode.com/problems/anagrams/
+    - http://www.lintcode.com/en/problem/anagrams/
 """
 
 import unittest
