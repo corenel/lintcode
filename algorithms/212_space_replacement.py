@@ -39,6 +39,9 @@ def replace_blank(string, length):
     """
     Replace all spaces in a string with %20 in place
 
+    Time complexity: O(n)
+    Space complexity: O(1)
+
     :param string: given string
     :type string: list[str]
     :param length: the true length of given string
