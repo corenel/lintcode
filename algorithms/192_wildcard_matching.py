@@ -41,6 +41,7 @@ Reference:
     - https://algorithm.yuanbin.me/zh-hans/string/wildcard_matching.html
     - https://leetcode.com/problems/wildcard-matching/
     - https://www.lintcode.com/problem/wildcard-matching/
+    - http://yucoding.blogspot.com/2013/02/leetcode-question-123-wildcard-matching.html
 """
 
 import unittest
