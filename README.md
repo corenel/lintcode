@@ -12,6 +12,7 @@ LintCode Problems' Solutions
 | 50   | [Product of Array Exclude Itself](https://www.lintcode.com/problem/product-of-array-exclude-itself/) | [Python](algorithms/50_product_of_array_exclude_itself.py) | Easy       | Integer Array |
 | 54   | [Reverse Words in a String](https://www.lintcode.com/problem/reverse-words-in-a-string/) | [Python](algorithms/54_reverse_words_in_a_string.py)       | Easy       | String        |
 | 55   | [Compare Strings](http://www.lintcode.com/en/problem/compare-strings/) | [Python](algorithms/55_compare_strings.py)                 | Easy       | String        |
+| 56   | [Two Sum](https://www.lintcode.com/problem/two-sum/)         | [Python](algorithms/56_two_sum.py)                         | Easy       | Integer Array |
 | 79   | [Longest Common Substring](http://www.lintcode.com/en/problem/longest-common-substring/) | [Python](algorithms/79_longest_common_substring.py)        | Medium     | String        |
 | 138  | [Subarray Sum](https://www.lintcode.com/problem/subarray-sum/) | [Python](algorithms/138_subarray_sum.py)                   | Easy       | Integer Array |
 | 139  | [Subarray Sum Closest](https://www.lintcode.com/problem/subarray-sum-closest/) | [Python](algorithms/139_subarray_sum_closest.py)           | Medium     | Integer Array |
