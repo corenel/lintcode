@@ -7,6 +7,7 @@ LintCode Problems' Solutions
 | ---- | ------------------------------------------------------------ | --------------------------------------------------------- | ---------- | ------------- |
 | 8    | [Rotate String](http://www.lintcode.com/en/problem/rotate-string/) | [Python](algorithms/2_valid_anagram.py)                   | Easy       | String        |
 | 13   | [StrStr](https://www.lintcode.com/problem/implement-strstr/) | [Python](algorithms/13_str_str.py)                        | Easy       | String        |
+| 39   | [Recover Rotated Sorted Array](https://www.lintcode.com/problem/recover-rotated-sorted-array/) | [Python](algorithms/39_recover_rotated_sorted_array.py)   | Easy       | Integer Array |
 | 54   | [Reverse Words in a String](https://www.lintcode.com/problem/reverse-words-in-a-string/) | [Python](algorithms/54_reverse_words_in_a_string.py)      | Easy       | String        |
 | 55   | [Compare Strings](http://www.lintcode.com/en/problem/compare-strings/) | [Python](algorithms/55_compare_strings.py)                | Easy       | String        |
 | 79   | [Longest Common Substring](http://www.lintcode.com/en/problem/longest-common-substring/) | [Python](algorithms/79_longest_common_substring.py)       | Medium     | String        |
