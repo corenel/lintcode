@@ -14,10 +14,11 @@ LintCode Problems' Solutions
 | 55   | [Compare Strings](http://www.lintcode.com/en/problem/compare-strings/) | [Python](algorithms/55_compare_strings.py)                 | Easy       | String        |
 | 79   | [Longest Common Substring](http://www.lintcode.com/en/problem/longest-common-substring/) | [Python](algorithms/79_longest_common_substring.py)        | Medium     | String        |
 | 138  | [Subarray Sum](https://www.lintcode.com/problem/subarray-sum/) | [Python](algorithms/138_subarray_sum.py)                   | Easy       | Integer Array |
-| 139j | [Subarray Sum Closest](https://www.lintcode.com/problem/subarray-sum-closest/) | [Python](algorithms/139_subarray_sum_closest.py)           | Medium     | Integer Array |
+| 139  | [Subarray Sum Closest](https://www.lintcode.com/problem/subarray-sum-closest/) | [Python](algorithms/139_subarray_sum_closest.py)           | Medium     | Integer Array |
 | 158  | [Valid Anagram](https://www.lintcode.com/problem/valid-anagram) | [Python](algorithms/158_valid_anagram.py)                  | Easy       | String        |
 | 171  | [Group Anagrams](http://www.lintcode.com/en/problem/anagrams/) | [Python](algorithms/171_group_anagrams.py)                 | Medium     | String        |
 | 172  | [Remove Element](http://www.lintcode.com/en/problem/remove-element/) | [Python](algorithms/172_remove_element.py)                 | Easy       | Integer Array |
+| 189  | [First Missing Positive](https://www.lintcode.com/problem/first-missing-positive/) | [Python](algorithms/189_first_missing_positive.py)         | Medium     | Integer Array |
 | 192  | [Wildcard Matching](https://www.lintcode.com/problem/wildcard-matching/) | [Python](algorithms/192_wildcard_matching.py)              | Hard       | String        |
 | 200  | [Longest Palindromic Substring](https://www.lintcode.com/problem/longest-palindromic-substring/) | [Python](algorithms/200_longest_palindromic_substring.py)  | Medium     | String        |
 | 212  | [Space Replacement](https://www.lintcode.com/problem/space-replacement/) | [Python](algorithms/212_space_replacement.py)              | Easy       | String        |
