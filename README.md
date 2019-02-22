@@ -7,6 +7,7 @@ LintCode Problems' Solutions
 | ---- | ------------------------------------------------------------ | ---------------------------------------------------------- | ---------- | ------------- |
 | 8    | [Rotate String](http://www.lintcode.com/en/problem/rotate-string/) | [Python](algorithms/2_valid_anagram.py)                    | Easy       | String        |
 | 13   | [StrStr](https://www.lintcode.com/problem/implement-strstr/) | [Python](algorithms/13_str_str.py)                         | Easy       | String        |
+| 31   | [Partition Array](https://www.lintcode.com/problem/partition-array/) | [Python](algorithms/31_partition_array.py)                 | Medium     | Integer Array |
 | 39   | [Recover Rotated Sorted Array](https://www.lintcode.com/problem/recover-rotated-sorted-array/) | [Python](algorithms/39_recover_rotated_sorted_array.py)    | Easy       | Integer Array |
 | 50   | [Product of Array Exclude Itself](https://www.lintcode.com/problem/product-of-array-exclude-itself/) | [Python](algorithms/50_product_of_array_exclude_itself.py) | Easy       | Integer Array |
 | 54   | [Reverse Words in a String](https://www.lintcode.com/problem/reverse-words-in-a-string/) | [Python](algorithms/54_reverse_words_in_a_string.py)       | Easy       | String        |
