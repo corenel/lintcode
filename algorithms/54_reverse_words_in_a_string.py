@@ -19,7 +19,7 @@ Follow up:
 Reference:
     - https://algorithm.yuanbin.me/zh-hans/string/reverse_words_in_a_string.html
     - https://leetcode.com/problems/reverse-words-in-a-string/
-    - https://www.lintcode.com/problem/reverse-words-in-a-string/description
+    - https://www.lintcode.com/problem/reverse-words-in-a-string/
 """
 
 import unittest

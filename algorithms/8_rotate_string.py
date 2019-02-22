@@ -24,6 +24,9 @@ Example 4
     - Input: str="abcdefg", offset =2
     - Output:"fgabcde"
 
+Reference:
+    - https://algorithm.yuanbin.me/zh-hans/string/rotate_string.html
+    - http://www.lintcode.com/en/problem/rotate-string/
 """
 
 import unittest
