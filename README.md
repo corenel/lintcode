@@ -14,6 +14,7 @@ LintCode Problems' Solutions
 | 55   | [Compare Strings](http://www.lintcode.com/en/problem/compare-strings/) | [Python](algorithms/55_compare_strings.py)                 | Easy       | String        |
 | 56   | [Two Sum](https://www.lintcode.com/problem/two-sum/)         | [Python](algorithms/56_two_sum.py)                         | Easy       | Integer Array |
 | 57   | [Three Sum](https://www.lintcode.com/problem/3sum/description) | [Python](algorithms/57_three_sum.py)                       | Medium     | Integer Array |
+| 59   | [Three Sum Closest](https://www.lintcode.com/problem/3sum-closest/) | [Python](algorithms/59_three_sum_closest.py)               | Medium     | Integer Array |
 | 79   | [Longest Common Substring](http://www.lintcode.com/en/problem/longest-common-substring/) | [Python](algorithms/79_longest_common_substring.py)        | Medium     | String        |
 | 138  | [Subarray Sum](https://www.lintcode.com/problem/subarray-sum/) | [Python](algorithms/138_subarray_sum.py)                   | Easy       | Integer Array |
 | 139  | [Subarray Sum Closest](https://www.lintcode.com/problem/subarray-sum-closest/) | [Python](algorithms/139_subarray_sum_closest.py)           | Medium     | Integer Array |

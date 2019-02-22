@@ -22,30 +22,9 @@ Reference:
 import unittest
 
 
-def two_sum(nums, target):
-    """
-    Given an array of integers, return indices of the two numbers
-    such that they add up to a specific target.
-
-    :param nums: given array
-    :type nums: list[int]
-    :param target: target number
-    :type target: int
-    :return: indices of two numbers such that they add up to a specific target
-    :rtype: list[int]
-    """
-    hash_table = {}
-    for i in range(len(nums)):
-        if target - nums[i] in hash_table:
-            return [min(i, hash_table[target - nums[i]]),
-                    max(i, hash_table[target - nums[i]])]
-        hash_table[nums[i]] = i
-    return [-1, -1]
-
-
 def three_sum(nums):
     """
-    Find all unique triplets that sum to zero in given array
+    Find all unique triplets whose sum is zero in given array
 
     :param nums: given array
     :type nums: list[int]
