@@ -30,6 +30,7 @@ LintCode Problems' Solutions
 | 192  | [Wildcard Matching](https://www.lintcode.com/problem/wildcard-matching/) | [Python](algorithms/192_wildcard_matching.py)                | Hard       | String        |
 | 200  | [Longest Palindromic Substring](https://www.lintcode.com/problem/longest-palindromic-substring/) | [Python](algorithms/200_longest_palindromic_substring.py)    | Medium     | String        |
 | 212  | [Space Replacement](https://www.lintcode.com/problem/space-replacement/) | [Python](algorithms/212_space_replacement.py)                | Easy       | String        |
+| 373  | [Partition Array by Odd and Even](https://www.lintcode.com/problem/partition-array-by-odd-and-even/) | [Python](algorithms/373_partition_array_by_odd_and_even.py)  | Easy       | Integer Array |
 | 415  | [Valid Palindrome](https://www.lintcode.com/problem/valid-palindrome/) | [Python](algorithms/415_valid_palindrome.py)                 | Medium     | String        |
 | 420  | [Count and Say](https://www.lintcode.com/problem/count-and-say/) | [Python](algorithms/420_count_and_say.py)                    | Easy       | String        |
 | 422  | [Length of Last Word](https://www.lintcode.com/problem/length-of-last-word/) | [Python](algorithms/422_length_of_last_word.py)              | Easy       | String        |
