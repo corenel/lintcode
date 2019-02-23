@@ -12,6 +12,7 @@ LintCode Problems' Solutions
 | 14   | [First Position of Target](https://www.lintcode.com/problem/first-position-of-target/) | [Python](algorithms/14_first_position_of_target.py)          | Easy       | Binary Search |
 | 28   | [Search a 2D Matrix](https://www.lintcode.com/problem/search-a-2d-matrix/description) | [Python](algorithms/28_search_a_2d_matrix.py)                | Medium     | Binary Search |
 | 31   | [Partition Array](https://www.lintcode.com/problem/partition-array/) | [Python](algorithms/31_partition_array.py)                   | Medium     | Integer Array |
+| 38   | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Python](algorithms/38_search_a_2d_matrix_ii.py)             | Medium     | Binary Search |
 | 39   | [Recover Rotated Sorted Array](https://www.lintcode.com/problem/recover-rotated-sorted-array/) | [Python](algorithms/39_recover_rotated_sorted_array.py)      | Easy       | Integer Array |
 | 50   | [Product of Array Exclude Itself](https://www.lintcode.com/problem/product-of-array-exclude-itself/) | [Python](algorithms/50_product_of_array_exclude_itself.py)   | Easy       | Integer Array |
 | 54   | [Reverse Words in a String](https://www.lintcode.com/problem/reverse-words-in-a-string/) | [Python](algorithms/54_reverse_words_in_a_string.py)         | Easy       | String        |
