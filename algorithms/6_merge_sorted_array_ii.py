@@ -54,7 +54,7 @@ def merge(nums1, nums2):
     return result
 
 
-class TestRemoveMergeSortedArrayII(unittest.TestCase):
+class TestMergeSortedArrayII(unittest.TestCase):
     def test_merge_sorted_array_ii(self):
         self.assertListEqual([1, 1], merge([1], [1]))
         self.assertListEqual([1, 2, 2, 3, 4, 4, 5, 6], merge([1, 2, 3, 4], [2, 4, 5, 6]))

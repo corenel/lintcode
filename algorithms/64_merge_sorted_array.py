@@ -61,8 +61,8 @@ def merge(nums1, m, nums2, n) -> None:
         j -= 1
 
 
-class TestRemoveDuplicatesFromSortedArray(unittest.TestCase):
-    def test_remove_duplicates_from_sorted_array(self):
+class TestRemoveMergeSortedArray(unittest.TestCase):
+    def test_merge_sorted_array(self):
         nums1 = [1, 2, 3, 0, 0, 0]
         m = 3
         nums2 = [2, 5, 6]
