@@ -17,6 +17,7 @@ LintCode Problems' Solutions
 | 59   | [Three Sum Closest](https://www.lintcode.com/problem/3sum-closest/) | [Python](algorithms/59_three_sum_closest.py)                 | Medium     | Integer Array |
 | 79   | [Longest Common Substring](http://www.lintcode.com/en/problem/longest-common-substring/) | [Python](algorithms/79_longest_common_substring.py)          | Medium     | String        |
 | 100  | [Remove Duplicates from Sorted Array](https://www.lintcode.com/problem/remove-duplicates-from-sorted-array/) | [Python](algorithms/100_remove_duplicates_from_sorted_array.py) | Easy       | Integer Array |
+| 101  | [Remove Duplicates from Sorted Array II](https://www.lintcode.com/problem/remove-duplicates-from-sorted-array-ii/) | [Python](algorithms/101_remove_duplicates_from_sorted_array_ii.py) | Easy       | Integer Array |
 | 138  | [Subarray Sum](https://www.lintcode.com/problem/subarray-sum/) | [Python](algorithms/138_subarray_sum.py)                     | Easy       | Integer Array |
 | 139  | [Subarray Sum Closest](https://www.lintcode.com/problem/subarray-sum-closest/) | [Python](algorithms/139_subarray_sum_closest.py)             | Medium     | Integer Array |
 | 158  | [Valid Anagram](https://www.lintcode.com/problem/valid-anagram) | [Python](algorithms/158_valid_anagram.py)                    | Easy       | String        |
