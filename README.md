@@ -9,6 +9,7 @@ LintCode Problems' Solutions
 | 6    | [Merge Two Sorted Arrays](https://www.lintcode.com/problem/merge-two-sorted-arrays/) | [Python](algorithms/6_merge_sorted_array_ii.py)              | Easy       | Integer Array |
 | 8    | [Rotate String](http://www.lintcode.com/en/problem/rotate-string/) | [Python](algorithms/2_valid_anagram.py)                      | Easy       | String        |
 | 13   | [StrStr](https://www.lintcode.com/problem/implement-strstr/) | [Python](algorithms/13_str_str.py)                           | Easy       | String        |
+| 14   | [First Position of Target](https://www.lintcode.com/problem/first-position-of-target/) | [Python](algorithms/14_first_position_of_target.py)          | Easy       | Binary Search |
 | 31   | [Partition Array](https://www.lintcode.com/problem/partition-array/) | [Python](algorithms/31_partition_array.py)                   | Medium     | Integer Array |
 | 39   | [Recover Rotated Sorted Array](https://www.lintcode.com/problem/recover-rotated-sorted-array/) | [Python](algorithms/39_recover_rotated_sorted_array.py)      | Easy       | Integer Array |
 | 50   | [Product of Array Exclude Itself](https://www.lintcode.com/problem/product-of-array-exclude-itself/) | [Python](algorithms/50_product_of_array_exclude_itself.py)   | Easy       | Integer Array |
