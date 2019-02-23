@@ -18,6 +18,7 @@ LintCode Problems' Solutions
 | 56   | [Two Sum](https://www.lintcode.com/problem/two-sum/)         | [Python](algorithms/56_two_sum.py)                           | Easy       | Integer Array |
 | 57   | [Three Sum](https://www.lintcode.com/problem/3sum/description) | [Python](algorithms/57_three_sum.py)                         | Medium     | Integer Array |
 | 59   | [Three Sum Closest](https://www.lintcode.com/problem/3sum-closest/) | [Python](algorithms/59_three_sum_closest.py)                 | Medium     | Integer Array |
+| 60   | [Search Insert Position](https://www.lintcode.com/problem/search-insert-position/) | [Python](algorithms/60_search_insert_position.py)            | Easy       | Binary Search |
 | 64   | [Merge Sorted Array](https://www.lintcode.com/problem/merge-sorted-array/description) | [Python](algorithms/64_merge_sorted_array.py)                | Easy       | Integet Array |
 | 79   | [Longest Common Substring](http://www.lintcode.com/en/problem/longest-common-substring/) | [Python](algorithms/79_longest_common_substring.py)          | Medium     | String        |
 | 80   | [Median](https://www.lintcode.com/problem/median/description) | [Python](algorithms/80_median.py)                            | Easy       | Integer Array |
