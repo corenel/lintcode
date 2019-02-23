@@ -5,6 +5,7 @@ LintCode Problems' Solutions
 
 | No.  | Title                                                        | Solution                                                     | Difficulty | Tags          |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ------------- |
+| 6    | [Merge Two Sorted Arrays](https://www.lintcode.com/problem/merge-two-sorted-arrays/) | [Python](algorithms/6_merge_sorted_array_ii.py)              | Easy       | Integer Array |
 | 8    | [Rotate String](http://www.lintcode.com/en/problem/rotate-string/) | [Python](algorithms/2_valid_anagram.py)                      | Easy       | String        |
 | 13   | [StrStr](https://www.lintcode.com/problem/implement-strstr/) | [Python](algorithms/13_str_str.py)                           | Easy       | String        |
 | 31   | [Partition Array](https://www.lintcode.com/problem/partition-array/) | [Python](algorithms/31_partition_array.py)                   | Medium     | Integer Array |
