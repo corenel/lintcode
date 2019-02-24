@@ -40,6 +40,7 @@ LintCode Problems' Solutions
 | 160  | [Find Minimum in Rotated Sorted Array II](https://www.lintcode.com/problem/search-in-rotated-sorted-array-ii/) | [Python](algorithms/160_find_minimum_in_rotated_sorted_array_ii.py) | Hard       | Binary Search |
 | 171  | [Group Anagrams](http://www.lintcode.com/en/problem/anagrams/) | [Python](algorithms/171_group_anagrams.py)                   | Medium     | String        |
 | 172  | [Remove Element](http://www.lintcode.com/en/problem/remove-element/) | [Python](algorithms/172_remove_element.py)                   | Easy       | Integer Array |
+| 183  | [Wood Cut](https://www.lintcode.com/problem/wood-cut/)       | [Python](algorithms/183_wood_cut.py)                         | Hard       | Binary Search |
 | 189  | [First Missing Positive](https://www.lintcode.com/problem/first-missing-positive/) | [Python](algorithms/189_first_missing_positive.py)           | Medium     | Integer Array |
 | 192  | [Wildcard Matching](https://www.lintcode.com/problem/wildcard-matching/) | [Python](algorithms/192_wildcard_matching.py)                | Hard       | String        |
 | 200  | [Longest Palindromic Substring](https://www.lintcode.com/problem/longest-palindromic-substring/) | [Python](algorithms/200_longest_palindromic_substring.py)    | Medium     | String        |
