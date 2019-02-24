@@ -34,6 +34,7 @@ LintCode Problems' Solutions
 | 101  | [Remove Duplicates from Sorted Array II](https://www.lintcode.com/problem/remove-duplicates-from-sorted-array-ii/) | [Python](algorithms/63_remove_duplicates_from_sorted_array_ii.py) | Easy       | Integer Array |
 | 138  | [Subarray Sum](https://www.lintcode.com/problem/subarray-sum/) | [Python](algorithms/138_subarray_sum.py)                     | Easy       | Integer Array |
 | 139  | [Subarray Sum Closest](https://www.lintcode.com/problem/subarray-sum-closest/) | [Python](algorithms/139_subarray_sum_closest.py)             | Medium     | Integer Array |
+| 141  | [Sqrt(x)](https://www.lintcode.com/problem/sqrtx/)           | [Python](algorithms/141_sqrt_x.py)                           | Easy       | Binary Search |
 | 158  | [Valid Anagram](https://www.lintcode.com/problem/valid-anagram) | [Python](algorithms/158_valid_anagram.py)                    | Easy       | String        |
 | 159  | [Find Minimum in Rotated Sorted Array](https://www.lintcode.com/problem/find-minimum-in-rotated-sorted-array/) | [Python](algorithms/159_find_minimum_in_rotated_sorted_array.py) | Medium     | Binary Search |
 | 160  | [Find Minimum in Rotated Sorted Array II](https://www.lintcode.com/problem/search-in-rotated-sorted-array-ii/) | [Python](algorithms/160_find_minimum_in_rotated_sorted_array_ii.py) | Hard       | Binary Search |
