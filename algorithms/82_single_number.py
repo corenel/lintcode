@@ -43,7 +43,7 @@ def single_number(nums):
 
 
 class TestSingleNumber(unittest.TestCase):
-    def test_median_of_two_sorted_arrays(self):
+    def test_single_number(self):
         self.assertEqual(1, single_number([2, 2, 1]))
         self.assertEqual(4, single_number([4, 1, 2, 1, 2]))
 
