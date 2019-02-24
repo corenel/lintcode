@@ -35,6 +35,7 @@ LintCode Problems' Solutions
 | 139  | [Subarray Sum Closest](https://www.lintcode.com/problem/subarray-sum-closest/) | [Python](algorithms/139_subarray_sum_closest.py)             | Medium     | Integer Array |
 | 158  | [Valid Anagram](https://www.lintcode.com/problem/valid-anagram) | [Python](algorithms/158_valid_anagram.py)                    | Easy       | String        |
 | 159  | [Find Minimum in Rotated Sorted Array](https://www.lintcode.com/problem/find-minimum-in-rotated-sorted-array/) | [Python](algorithms/159_find_minimum_in_rotated_sorted_array.py) | Medium     | Binary Search |
+| 160  | [Find Minimum in Rotated Sorted Array II](https://www.lintcode.com/problem/search-in-rotated-sorted-array-ii/) | [Python](algorithms/160_find_minimum_in_rotated_sorted_array_ii.py) | Medium     | Binary Search |
 | 171  | [Group Anagrams](http://www.lintcode.com/en/problem/anagrams/) | [Python](algorithms/171_group_anagrams.py)                   | Medium     | String        |
 | 172  | [Remove Element](http://www.lintcode.com/en/problem/remove-element/) | [Python](algorithms/172_remove_element.py)                   | Easy       | Integer Array |
 | 189  | [First Missing Positive](https://www.lintcode.com/problem/first-missing-positive/) | [Python](algorithms/189_first_missing_positive.py)           | Medium     | Integer Array |
