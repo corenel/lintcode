@@ -24,6 +24,7 @@ LintCode Problems' Solutions
 | 61   | [Search for a range](http://www.lintcode.com/en/problem/search-for-a-range/) | [Python](algorithms/61_search_for_a_range.py)                | Medium     | Binary Search |
 | 64   | [Merge Sorted Array](https://www.lintcode.com/problem/merge-sorted-array/description) | [Python](algorithms/64_merge_sorted_array.py)                | Easy       | Integet Array |
 | 74   | [First Bad Version](https://www.lintcode.com/problem/first-bad-version/) | [Python](algorithms/74_first_bad_version.py)                 | Easy       | Binary Search |
+| 75   | [Find Peak Element](https://www.lintcode.com/problem/find-peak-element/) | [Python](algorithms/75_find_peak_element.py)                 | Medium     | Binary Search |
 | 79   | [Longest Common Substring](http://www.lintcode.com/en/problem/longest-common-substring/) | [Python](algorithms/79_longest_common_substring.py)          | Medium     | String        |
 | 80   | [Median](https://www.lintcode.com/problem/median/description) | [Python](algorithms/80_median.py)                            | Easy       | Integer Array |
 | 100  | [Remove Duplicates from Sorted Array](https://www.lintcode.com/problem/remove-duplicates-from-sorted-array/) | [Python](algorithms/100_remove_duplicates_from_sorted_array.py) | Easy       | Integer Array |
