@@ -23,13 +23,14 @@ LintCode Problems' Solutions
 | 60   | [Search Insert Position](https://www.lintcode.com/problem/search-insert-position/) | [Python](algorithms/60_search_insert_position.py)            | Easy       | Binary Search |
 | 61   | [Search for a range](http://www.lintcode.com/en/problem/search-for-a-range/) | [Python](algorithms/61_search_for_a_range.py)                | Medium     | Binary Search |
 | 62   | [Search in Rotated Sorted Array](https://www.lintcode.com/problem/search-in-rotated-sorted-array/) | [Python](algorithms/62_search_in_rotated_sorted_array.py)    | Medium     | Binary Search |
+| 63   | [Search in Rotated Sorted Array II](https://www.lintcode.com/problem/search-in-rotated-sorted-array-ii/) | [Python](algorithms/62_search_in_rotated_sorted_array.py)    | Medium     | Binary Search |
 | 64   | [Merge Sorted Array](https://www.lintcode.com/problem/merge-sorted-array/description) | [Python](algorithms/64_merge_sorted_array.py)                | Easy       | Integet Array |
 | 74   | [First Bad Version](https://www.lintcode.com/problem/first-bad-version/) | [Python](algorithms/74_first_bad_version.py)                 | Easy       | Binary Search |
 | 75   | [Find Peak Element](https://www.lintcode.com/problem/find-peak-element/) | [Python](algorithms/75_find_peak_element.py)                 | Medium     | Binary Search |
 | 79   | [Longest Common Substring](http://www.lintcode.com/en/problem/longest-common-substring/) | [Python](algorithms/79_longest_common_substring.py)          | Medium     | String        |
 | 80   | [Median](https://www.lintcode.com/problem/median/description) | [Python](algorithms/80_median.py)                            | Easy       | Integer Array |
 | 100  | [Remove Duplicates from Sorted Array](https://www.lintcode.com/problem/remove-duplicates-from-sorted-array/) | [Python](algorithms/100_remove_duplicates_from_sorted_array.py) | Easy       | Integer Array |
-| 101  | [Remove Duplicates from Sorted Array II](https://www.lintcode.com/problem/remove-duplicates-from-sorted-array-ii/) | [Python](algorithms/101_remove_duplicates_from_sorted_array_ii.py) | Easy       | Integer Array |
+| 101  | [Remove Duplicates from Sorted Array II](https://www.lintcode.com/problem/remove-duplicates-from-sorted-array-ii/) | [Python](algorithms/63_remove_duplicates_from_sorted_array_ii.py) | Easy       | Integer Array |
 | 138  | [Subarray Sum](https://www.lintcode.com/problem/subarray-sum/) | [Python](algorithms/138_subarray_sum.py)                     | Easy       | Integer Array |
 | 139  | [Subarray Sum Closest](https://www.lintcode.com/problem/subarray-sum-closest/) | [Python](algorithms/139_subarray_sum_closest.py)             | Medium     | Integer Array |
 | 158  | [Valid Anagram](https://www.lintcode.com/problem/valid-anagram) | [Python](algorithms/158_valid_anagram.py)                    | Easy       | String        |

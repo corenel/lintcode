@@ -39,8 +39,8 @@ def search(nums, target):
     :type nums: list[int]
     :param target: target number
     :type target: int
-    :return: index of
-    :rtype:
+    :return: index of target
+    :rtype: int
     """
     left = 0
     right = len(nums) - 1
