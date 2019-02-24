@@ -22,6 +22,7 @@ LintCode Problems' Solutions
 | 59   | [Three Sum Closest](https://www.lintcode.com/problem/3sum-closest/) | [Python](algorithms/59_three_sum_closest.py)                 | Medium     | Integer Array |
 | 60   | [Search Insert Position](https://www.lintcode.com/problem/search-insert-position/) | [Python](algorithms/60_search_insert_position.py)            | Easy       | Binary Search |
 | 61   | [Search for a range](http://www.lintcode.com/en/problem/search-for-a-range/) | [Python](algorithms/61_search_for_a_range.py)                | Medium     | Binary Search |
+| 62   | [Search in Rotated Sorted Array](https://www.lintcode.com/problem/search-in-rotated-sorted-array/) | [Python](algorithms/62_search_in_rotated_sorted_array.py)    | Medium     | Binary Search |
 | 64   | [Merge Sorted Array](https://www.lintcode.com/problem/merge-sorted-array/description) | [Python](algorithms/64_merge_sorted_array.py)                | Easy       | Integet Array |
 | 74   | [First Bad Version](https://www.lintcode.com/problem/first-bad-version/) | [Python](algorithms/74_first_bad_version.py)                 | Easy       | Binary Search |
 | 75   | [Find Peak Element](https://www.lintcode.com/problem/find-peak-element/) | [Python](algorithms/75_find_peak_element.py)                 | Medium     | Binary Search |
