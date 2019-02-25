@@ -5,6 +5,7 @@ LintCode Problems' Solutions
 
 | No.  | Title                                                        | Solution                                                     | Difficulty | Tags             |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- |
+| 2    | [Factorial Trailing Zeroes](https://www.lintcode.com/problem/trailing-zeros/) | [Python](algorithms/2_factorial_trailing_zeroes.py)          | Easy       | Math             |
 | 5    | [Kth Largest Element in an Array](https://www.lintcode.com/problem/kth-largest-element/description) | [Python](algorithms/5_kth_largest_element_in_an_array.py)    | Medium     | Integet Array    |
 | 6    | [Merge Two Sorted Arrays](https://www.lintcode.com/problem/merge-two-sorted-arrays/) | [Python](algorithms/6_merge_sorted_array_ii.py)              | Easy       | Integer Array    |
 | 8    | [Rotate String](http://www.lintcode.com/en/problem/rotate-string/) | [Python](algorithms/2_valid_anagram.py)                      | Easy       | String           |
