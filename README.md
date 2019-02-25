@@ -46,6 +46,7 @@ LintCode Problems' Solutions
 | 163  | [Unique Binary Search Trees](https://www.lintcode.com/problem/unique-binary-search-trees/) | [Python](algorithms/163_unique_binary_search_trees.py)       | Medium     | Math             |
 | 171  | [Group Anagrams](http://www.lintcode.com/en/problem/anagrams/) | [Python](algorithms/171_group_anagrams.py)                   | Medium     | String           |
 | 172  | [Remove Element](http://www.lintcode.com/en/problem/remove-element/) | [Python](algorithms/172_remove_element.py)                   | Easy       | Integer Array    |
+| 179  | [Update Bits](https://www.lintcode.com/problem/update-bits/) | [Python](algorithms/179_update_bits.py)                      | Medium     | Bit Manipulation |
 | 181  | [Flip Bits](https://www.lintcode.com/problem/flip-bits/description) | [Python](algorithms/181_flip_bits.py)                        | Easy       | Bit Manipulation |
 | 183  | [Wood Cut](https://www.lintcode.com/problem/wood-cut/)       | [Python](algorithms/183_wood_cut.py)                         | Hard       | Binary Search    |
 | 189  | [First Missing Positive](https://www.lintcode.com/problem/first-missing-positive/) | [Python](algorithms/189_first_missing_positive.py)           | Medium     | Integer Array    |
