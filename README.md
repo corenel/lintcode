@@ -32,6 +32,7 @@ LintCode Problems' Solutions
 | 80   | [Median](https://www.lintcode.com/problem/median/description) | [Python](algorithms/80_median.py)                            | Easy       | Integer Array    |
 | 82   | [Single Number](https://www.lintcode.com/problem/single-number/) | [Python](algorithms/82_single_number.py)                     | Easy       | Bit Manipulation |
 | 83   | [Single Number II](https://www.lintcode.com/problem/single-number-ii/) | [Python](algorithms/83_single_number_ii.py)                  | Medium     | Bit Manipulation |
+| 84   | [Single Number III](https://www.lintcode.com/problem/single-number-iii/) | [Python](algorithms/84_single_number_iii.py)                 | Medium     | Bit Manipulation |
 | 100  | [Remove Duplicates from Sorted Array](https://www.lintcode.com/problem/remove-duplicates-from-sorted-array/) | [Python](algorithms/100_remove_duplicates_from_sorted_array.py) | Easy       | Integer Array    |
 | 101  | [Remove Duplicates from Sorted Array II](https://www.lintcode.com/problem/remove-duplicates-from-sorted-array-ii/) | [Python](algorithms/63_remove_duplicates_from_sorted_array_ii.py) | Easy       | Integer Array    |
 | 138  | [Subarray Sum](https://www.lintcode.com/problem/subarray-sum/) | [Python](algorithms/138_subarray_sum.py)                     | Easy       | Integer Array    |
