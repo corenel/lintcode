@@ -43,6 +43,7 @@ LintCode Problems' Solutions
 | 158  | [Valid Anagram](https://www.lintcode.com/problem/valid-anagram) | [Python](algorithms/158_valid_anagram.py)                    | Easy       | String           |
 | 159  | [Find Minimum in Rotated Sorted Array](https://www.lintcode.com/problem/find-minimum-in-rotated-sorted-array/) | [Python](algorithms/159_find_minimum_in_rotated_sorted_array.py) | Medium     | Binary Search    |
 | 160  | [Find Minimum in Rotated Sorted Array II](https://www.lintcode.com/problem/search-in-rotated-sorted-array-ii/) | [Python](algorithms/160_find_minimum_in_rotated_sorted_array_ii.py) | Hard       | Binary Search    |
+| 163  | [Unique Binary Search Trees](https://www.lintcode.com/problem/unique-binary-search-trees/) | [Python](algorithms/163_unique_binary_search_trees.py)       | Medium     | Math             |
 | 171  | [Group Anagrams](http://www.lintcode.com/en/problem/anagrams/) | [Python](algorithms/171_group_anagrams.py)                   | Medium     | String           |
 | 172  | [Remove Element](http://www.lintcode.com/en/problem/remove-element/) | [Python](algorithms/172_remove_element.py)                   | Easy       | Integer Array    |
 | 181  | [Flip Bits](https://www.lintcode.com/problem/flip-bits/description) | [Python](algorithms/181_flip_bits.py)                        | Easy       | Bit Manipulation |
