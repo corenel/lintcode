@@ -38,6 +38,7 @@ LintCode Problems' Solutions
 | 101  | [Remove Duplicates from Sorted Array II](https://www.lintcode.com/problem/remove-duplicates-from-sorted-array-ii/) | [Python](algorithms/63_remove_duplicates_from_sorted_array_ii.py) | Easy       | Integer Array    |
 | 138  | [Subarray Sum](https://www.lintcode.com/problem/subarray-sum/) | [Python](algorithms/138_subarray_sum.py)                     | Easy       | Integer Array    |
 | 139  | [Subarray Sum Closest](https://www.lintcode.com/problem/subarray-sum-closest/) | [Python](algorithms/139_subarray_sum_closest.py)             | Medium     | Integer Array    |
+| 140  | [Fast Power](https://www.lintcode.com/problem/fast-power/)   | [Python](algorithms/140_fast_power.py)                       | Medium     | Math             |
 | 141  | [Sqrt(x)](https://www.lintcode.com/problem/sqrtx/)           | [Python](algorithms/141_sqrt_x.py)                           | Easy       | Binary Search    |
 | 142  | [Power of Two](https://www.lintcode.com/problem/o1-check-power-of-2/description) | [Python](algorithms/142_power_of_two.py)                     | Easy       | Bit Manipulation |
 | 158  | [Valid Anagram](https://www.lintcode.com/problem/valid-anagram) | [Python](algorithms/158_valid_anagram.py)                    | Easy       | String           |
