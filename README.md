@@ -59,4 +59,5 @@ LintCode Problems' Solutions
 | 415  | [Valid Palindrome](https://www.lintcode.com/problem/valid-palindrome/) | [Python](algorithms/415_valid_palindrome.py)                 | Medium     | String           |
 | 420  | [Count and Say](https://www.lintcode.com/problem/count-and-say/) | [Python](algorithms/420_count_and_say.py)                    | Easy       | String           |
 | 422  | [Length of Last Word](https://www.lintcode.com/problem/length-of-last-word/) | [Python](algorithms/422_length_of_last_word.py)              | Easy       | String           |
+| 488  | [Happy Number](https://www.lintcode.com/problem/happy-number/) | [Python](algorithms/488_happy_number.py)                     | Easy       | Math             |
 
