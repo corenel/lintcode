@@ -5,6 +5,7 @@ LintCode Problems' Solutions
 
 | No.  | Title                                                        | Solution                                                     | Difficulty | Tags             |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- | ---------------- |
+| 1 | [A + B Problem](https://www.lintcode.com/problem/a-b-problem/) | [Python](algorithms/1_sum_of_two_integers.py) | Easy | Bit Manipulation |
 | 2    | [Factorial Trailing Zeroes](https://www.lintcode.com/problem/trailing-zeros/) | [Python](algorithms/2_factorial_trailing_zeroes.py)          | Easy       | Math             |
 | 5    | [Kth Largest Element in an Array](https://www.lintcode.com/problem/kth-largest-element/description) | [Python](algorithms/5_kth_largest_element_in_an_array.py)    | Medium     | Integet Array    |
 | 6    | [Merge Two Sorted Arrays](https://www.lintcode.com/problem/merge-two-sorted-arrays/) | [Python](algorithms/6_merge_sorted_array_ii.py)              | Easy       | Integer Array    |
@@ -56,6 +57,7 @@ LintCode Problems' Solutions
 | 200  | [Longest Palindromic Substring](https://www.lintcode.com/problem/longest-palindromic-substring/) | [Python](algorithms/200_longest_palindromic_substring.py)    | Medium     | String           |
 | 212  | [Space Replacement](https://www.lintcode.com/problem/space-replacement/) | [Python](algorithms/212_space_replacement.py)                | Easy       | String           |
 | 365 | [Number of 1 Bits](https://www.lintcode.com/problem/count-1-in-binary/) | [Python](algorithms/365_number_of_1_bits.py) | Easy | Bit Manipulation |
+| 366 | [Fibonacci Number](https://www.lintcode.com/problem/fibonacci/) | [Python](algorithms/366_fibonacci_number.py) | Easy | Math |
 | 373  | [Partition Array by Odd and Even](https://www.lintcode.com/problem/partition-array-by-odd-and-even/) | [Python](algorithms/373_partition_array_by_odd_and_even.py)  | Easy       | Integer Array    |
 | 415  | [Valid Palindrome](https://www.lintcode.com/problem/valid-palindrome/) | [Python](algorithms/415_valid_palindrome.py)                 | Medium     | String           |
 | 420  | [Count and Say](https://www.lintcode.com/problem/count-and-say/) | [Python](algorithms/420_count_and_say.py)                    | Easy       | String           |
