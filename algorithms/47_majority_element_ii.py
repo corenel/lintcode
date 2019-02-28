@@ -40,7 +40,7 @@ def majority_element(nums):
     :rtype: list[int]
     """
     if len(nums) == 0:
-        return []
+        return -1
 
     k1, k2, c1, c2 = math.inf, math.inf, 0, 0
     for n in nums:
