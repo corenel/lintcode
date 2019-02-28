@@ -17,6 +17,7 @@ LintCode Problems' Solutions
 | 38   | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Python](algorithms/38_search_a_2d_matrix_ii.py)             | Medium     | Binary Search    |
 | 39   | [Recover Rotated Sorted Array](https://www.lintcode.com/problem/recover-rotated-sorted-array/) | [Python](algorithms/39_recover_rotated_sorted_array.py)      | Easy       | Integer Array    |
 | 46 | [Majority Element](https://www.lintcode.com/problem/majority-element/) | [Python](algorithms/46_majority_element.py) | Easy | Math |
+| 47 | [Majority Element](https://www.lintcode.com/problem/majority-element-ii/) | [Python](algorithms/47_majority_element_ii.py) | Medium | Math |
 | 50   | [Product of Array Exclude Itself](https://www.lintcode.com/problem/product-of-array-exclude-itself/) | [Python](algorithms/50_product_of_array_exclude_itself.py)   | Easy       | Integer Array    |
 | 54   | [Reverse Words in a String](https://www.lintcode.com/problem/reverse-words-in-a-string/) | [Python](algorithms/54_reverse_words_in_a_string.py)         | Easy       | String           |
 | 55   | [Compare Strings](http://www.lintcode.com/en/problem/compare-strings/) | [Python](algorithms/55_compare_strings.py)                   | Easy       | String           |
