@@ -58,6 +58,7 @@ LintCode Problems' Solutions
 | 212  | [Space Replacement](https://www.lintcode.com/problem/space-replacement/) | [Python](algorithms/212_space_replacement.py)                | Easy       | String           |
 | 365 | [Number of 1 Bits](https://www.lintcode.com/problem/count-1-in-binary/) | [Python](algorithms/365_number_of_1_bits.py) | Easy | Bit Manipulation |
 | 366 | [Fibonacci Number](https://www.lintcode.com/problem/fibonacci/) | [Python](algorithms/366_fibonacci_number.py) | Easy | Math |
+| 371 | [Print Numbers by Recursion](https://www.lintcode.com/problem/print-numbers-by-recursion/description) | [Python](algorithms/371_print_numbers_by_recursion.py) | Medium | Math |
 | 373  | [Partition Array by Odd and Even](https://www.lintcode.com/problem/partition-array-by-odd-and-even/) | [Python](algorithms/373_partition_array_by_odd_and_even.py)  | Easy       | Integer Array    |
 | 415  | [Valid Palindrome](https://www.lintcode.com/problem/valid-palindrome/) | [Python](algorithms/415_valid_palindrome.py)                 | Medium     | String           |
 | 420  | [Count and Say](https://www.lintcode.com/problem/count-and-say/) | [Python](algorithms/420_count_and_say.py)                    | Easy       | String           |
