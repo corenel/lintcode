@@ -65,7 +65,7 @@ def kth_ugly_number(k):
     :return: kth ugly number
     :rtype: int
     """
-    # list of ngly numbers
+    # list of ugly numbers
     ugly_numbers = [0] * k
     # 1 is the first ugly number
     ugly_numbers[0] = 1
