@@ -57,7 +57,7 @@ class LinkedList:
         :param val: given value
         :type val: Any
         :return: node
-        :rtype: ListNode or DListNone
+        :rtype: ListNode or DListNode
         """
         return ListNode(val) if self.singly else DListNode(val)
 
@@ -75,11 +75,20 @@ class LinkedList:
         Get head node of linked list
 
         :return: head node
-        :rtype: ListNode or DListNone
+        :rtype: ListNode or DListNode
         """
         head = self.dummy_head.next
         # assert head is not None
         return head
+
+    def set_head(self, head) -> None:
+        """
+        Set given node as head
+
+        :param head: given node
+        :type head: ListNode or DListNode
+        """
+        self.dummy_head.next = head
 
     def eliminate_circularity(self):
         """
@@ -160,7 +169,7 @@ class LinkedList:
         Reverse linked list
 
         :return: head node of reversed linked list
-        :rtype: Union[ListNode, DListNone]
+        :rtype: Union[ListNode, DListNode]
         """
         head = self.get_head()
 
@@ -207,7 +216,7 @@ class LinkedList:
         :param index: index of node
         :type index: int
         :return: desired node
-        :rtype: ListNode or DListNone
+        :rtype: ListNode or DListNode
         """
         if index < 0:
             return self.dummy_head
