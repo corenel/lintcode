@@ -15,6 +15,7 @@ LintCode Problems' Solutions
 | 14   | [First Position of Target](https://www.lintcode.com/problem/first-position-of-target/) | [Python](algorithms/14_first_position_of_target.py)          | Easy       | Binary Search    |
 | 28   | [Search a 2D Matrix](https://www.lintcode.com/problem/search-a-2d-matrix/description) | [Python](algorithms/28_search_a_2d_matrix.py)                | Medium     | Binary Search    |
 | 31   | [Partition Array](https://www.lintcode.com/problem/partition-array/) | [Python](algorithms/31_partition_array.py)                   | Medium     | Integer Array    |
+| 35 | [Reverse Linked List](https://www.lintcode.com/problem/reverse-linked-list/) | [Python](algorithms/35_reverse_linked_list.py) | Easy | Linked List |
 | 38   | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Python](algorithms/38_search_a_2d_matrix_ii.py)             | Medium     | Binary Search    |
 | 39   | [Recover Rotated Sorted Array](https://www.lintcode.com/problem/recover-rotated-sorted-array/) | [Python](algorithms/39_recover_rotated_sorted_array.py)      | Easy       | Integer Array    |
 | 46 | [Majority Element](https://www.lintcode.com/problem/majority-element/) | [Python](algorithms/46_majority_element.py) | Easy | Math |
