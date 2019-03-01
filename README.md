@@ -39,6 +39,7 @@ LintCode Problems' Solutions
 | 82   | [Single Number](https://www.lintcode.com/problem/single-number/) | [Python](algorithms/82_single_number.py)                     | Easy       | Bit Manipulation |
 | 83   | [Single Number II](https://www.lintcode.com/problem/single-number-ii/) | [Python](algorithms/83_single_number_ii.py)                  | Medium     | Bit Manipulation |
 | 84   | [Single Number III](https://www.lintcode.com/problem/single-number-iii/) | [Python](algorithms/84_single_number_iii.py)                 | Medium     | Bit Manipulation |
+| 96 | [Partition List](https://www.lintcode.com/problem/partition-list/) | [Python](algorithms/96_partition_list.py) | Easy | Linked List |
 | 100  | [Remove Duplicates from Sorted Array](https://www.lintcode.com/problem/remove-duplicates-from-sorted-array/) | [Python](algorithms/100_remove_duplicates_from_sorted_array.py) | Easy       | Integer Array    |
 | 101  | [Remove Duplicates from Sorted Array II](https://www.lintcode.com/problem/remove-duplicates-from-sorted-array-ii/) | [Python](algorithms/63_remove_duplicates_from_sorted_array_ii.py) | Easy       | Integer Array    |
 | 112 | [Remove Duplicates from Sorted List](https://www.lintcode.com/problem/remove-duplicates-from-sorted-list/) | [Python](algorithms/112_remove_duplicates_from_sorted_list.py) | Easy | Linked List |
