@@ -68,4 +68,5 @@ LintCode Problems' Solutions
 | 420  | [Count and Say](https://www.lintcode.com/problem/count-and-say/) | [Python](algorithms/420_count_and_say.py)                    | Easy       | String           |
 | 422  | [Length of Last Word](https://www.lintcode.com/problem/length-of-last-word/) | [Python](algorithms/422_length_of_last_word.py)              | Easy       | String           |
 | 488  | [Happy Number](https://www.lintcode.com/problem/happy-number/) | [Python](algorithms/488_happy_number.py)                     | Easy       | Math             |
+| 517 | [Ugly Number](https://www.lintcode.com/problem/ugly-number/) | [Python](algorithms/517_ugly_number.py) | Easy | Math |
 
