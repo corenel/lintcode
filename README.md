@@ -41,8 +41,9 @@ LintCode Problems' Solutions
 | 84   | [Single Number III](https://www.lintcode.com/problem/single-number-iii/) | [Python](algorithms/84_single_number_iii.py)                 | Medium     | Bit Manipulation |
 | 96 | [Partition List](https://www.lintcode.com/problem/partition-list/) | [Python](algorithms/96_partition_list.py) | Easy | Linked List |
 | 100  | [Remove Duplicates from Sorted Array](https://www.lintcode.com/problem/remove-duplicates-from-sorted-array/) | [Python](algorithms/100_remove_duplicates_from_sorted_array.py) | Easy       | Integer Array    |
+| 101 | [Remove Duplicates from Sorted Array II](https://www.lintcode.com/problem/remove-duplicates-from-sorted-array-ii/) | [Python](algorithms/63_remove_duplicates_from_sorted_array_ii.py) | Easy | Integer Array |
 | 102 | [Linked List Cycle](https://www.lintcode.com/problem/linked-list-cycle/) | [Python](algorithms/102_linked_list_cycle.py) | Medium | Linked List |
-| 101  | [Remove Duplicates from Sorted Array II](https://www.lintcode.com/problem/remove-duplicates-from-sorted-array-ii/) | [Python](algorithms/63_remove_duplicates_from_sorted_array_ii.py) | Easy       | Integer Array    |
+| 103 | [Linked List Cycle II](https://www.lintcode.com/problem/linked-list-cycle-ii/) | [Python](algorithms/103_linked_list_cycle_ii.py) | Hard | Linked List |
 | 112 | [Remove Duplicates from Sorted List](https://www.lintcode.com/problem/remove-duplicates-from-sorted-list/) | [Python](algorithms/112_remove_duplicates_from_sorted_list.py) | Easy | Linked List |
 | 113 | [Remove Duplicates from Sorted List II](https://www.lintcode.com/problem/remove-duplicates-from-sorted-list-ii/) | [Python](algorithms/113_remove_duplicates_from_sorted_list_ii.py) | Medium | Linked List |
 | 128  | [Hash Function](https://www.lintcode.com/problem/hash-function/description) | [Python](algorithms/128_hash_code.py)                        | Easy       | Math             |
