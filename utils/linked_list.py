@@ -19,6 +19,9 @@ class ListNode:
         self.val = val
         self.next = None
 
+    def __repr__(self):
+        return 'Node {}'.format(self.val)
+
 
 class DListNode:
     def __init__(self, val):
@@ -257,6 +260,9 @@ class LinkedList:
 
         return slow
 
+    def __repr__(self):
+        return self.to_list()
+
 
 def remove_list_node(curr, prev=None):
     if isinstance(curr, DListNode):
@@ -288,6 +294,22 @@ def generate_test_linked_list(size=5, singly=False):
     node_list.append_val_list(val_list)
 
     return val_list, node_list
+
+
+def generate_linked_list(val_list, singly=True):
+    """
+    Generate linked list with given values
+
+    :param val_list: given list of values
+    :type val_list: list
+    :param singly: whether or not linked list is singly
+    :type singly: bool
+    :return: created linked list
+    :rtype: LinkedList
+    """
+    linked_list = LinkedList(singly=singly)
+    linked_list.append_val_list(val_list)
+    return linked_list
 
 
 class TestLinkedList(unittest.TestCase):
