@@ -64,6 +64,7 @@ LintCode Problems' Solutions
 | 366 | [Fibonacci Number](https://www.lintcode.com/problem/fibonacci/) | [Python](algorithms/366_fibonacci_number.py) | Easy | Math |
 | 371 | [Print Numbers by Recursion](https://www.lintcode.com/problem/print-numbers-by-recursion/description) | [Python](algorithms/371_print_numbers_by_recursion.py) | Medium | Math |
 | 373  | [Partition Array by Odd and Even](https://www.lintcode.com/problem/partition-array-by-odd-and-even/) | [Python](algorithms/373_partition_array_by_odd_and_even.py)  | Easy       | Integer Array    |
+| 407 | [Plus One](https://www.lintcode.com/problem/plus-one/) | [Python](algorithms/407_plus_one.py) | Easy | Math |
 | 415  | [Valid Palindrome](https://www.lintcode.com/problem/valid-palindrome/) | [Python](algorithms/415_valid_palindrome.py)                 | Medium     | String           |
 | 420  | [Count and Say](https://www.lintcode.com/problem/count-and-say/) | [Python](algorithms/420_count_and_say.py)                    | Easy       | String           |
 | 422  | [Length of Last Word](https://www.lintcode.com/problem/length-of-last-word/) | [Python](algorithms/422_length_of_last_word.py)              | Easy       | String           |
