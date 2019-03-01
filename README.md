@@ -71,4 +71,5 @@ LintCode Problems' Solutions
 | 488  | [Happy Number](https://www.lintcode.com/problem/happy-number/) | [Python](algorithms/488_happy_number.py)                     | Easy       | Math             |
 | 491 | [Palindrome Number](https://www.lintcode.com/problem/palindrome-number/) | [Python](algorithms/491_palindrome_number.py) | Easy | Math |
 | 517 | [Ugly Number](https://www.lintcode.com/problem/ugly-number/) | [Python](algorithms/517_ugly_number.py) | Easy | Math |
+| 945 | [Task Scheduler](https://www.lintcode.com/problem/task-scheduler/) | [Python](algorithms/945_task_scheduler.py) | Medium | Math |
 
