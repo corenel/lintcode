@@ -67,8 +67,8 @@ def reverse_between(head, m, n):
     return dummy.next
 
 
-class TestReverseLinkedList(unittest.TestCase):
-    def test_reverse_linked_list_iterative(self):
+class TestReverseLinkedListII(unittest.TestCase):
+    def test_reverse_linked_list_ii(self):
         linked_list = generate_linked_list([1, 2, 3, 4, 5])
         head = reverse_between(linked_list.get_head(), 2, 4)
         linked_list.set_head(head)
