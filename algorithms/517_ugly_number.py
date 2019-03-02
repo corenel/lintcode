@@ -31,6 +31,7 @@ Reference:
     - https://leetcode.com/problems/ugly-number/
     - https://www.lintcode.com/problem/ugly-number/
 """
+
 import unittest
 
 
