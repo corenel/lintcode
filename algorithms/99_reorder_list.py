@@ -65,8 +65,8 @@ def reorder_list(head) -> None:
         right = tmp_right
 
 
-class TestReverseLinkedListII(unittest.TestCase):
-    def test_reverse_linked_list_ii(self):
+class TestReorderList(unittest.TestCase):
+    def test_reorder_list(self):
         def assert_operation(in_list, out_list):
             linked_list = generate_linked_list(in_list)
             reorder_list(linked_list.get_head())
