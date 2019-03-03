@@ -66,6 +66,7 @@ LintCode Problems' Solutions
 | 167 | [Add Two Numbers](https://www.lintcode.com/problem/add-two-numbers/) | [Python](algorithms/167_add_two_numbers.py) | Easy | Linked List |
 | 171  | [Group Anagrams](http://www.lintcode.com/en/problem/anagrams/) | [Python](algorithms/171_group_anagrams.py)                   | Medium     | String           |
 | 172  | [Remove Element](http://www.lintcode.com/en/problem/remove-element/) | [Python](algorithms/172_remove_element.py)                   | Easy       | Integer Array    |
+| 173 | [Insertion Sort List](https://www.lintcode.com/problem/insertion-sort-list/) | [Python](algorithms/173_insertion_sort_list.py) | Medium | Linked List |
 | 174 | [Remove Nth Node From End of List](https://www.lintcode.com/problem/remove-nth-node-from-end-of-list/description) | [Python](algorithms/174_remove_nth_node_from_end_of_list.py) | Easy | Linked List |
 | 179  | [Update Bits](https://www.lintcode.com/problem/update-bits/) | [Python](algorithms/179_update_bits.py)                      | Medium     | Bit Manipulation |
 | 181  | [Flip Bits](https://www.lintcode.com/problem/flip-bits/description) | [Python](algorithms/181_flip_bits.py)                        | Easy       | Bit Manipulation |

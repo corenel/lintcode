@@ -99,8 +99,8 @@ def merge_list(l1, l2):
     return dummy.next
 
 
-class TestReverseLinkedListII(unittest.TestCase):
-    def test_reverse_linked_list_ii(self):
+class TestSortList(unittest.TestCase):
+    def test_sort_list(self):
         def assert_operation(in_list, out_list):
             linked_list = generate_linked_list(in_list)
             head = sort_list(linked_list.get_head())
