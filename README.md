@@ -53,6 +53,7 @@ LintCode Problems' Solutions
 | 112 | [Remove Duplicates from Sorted List](https://www.lintcode.com/problem/remove-duplicates-from-sorted-list/) | [Python](algorithms/112_remove_duplicates_from_sorted_list.py) | Easy | Linked List |
 | 113 | [Remove Duplicates from Sorted List II](https://www.lintcode.com/problem/remove-duplicates-from-sorted-list-ii/) | [Python](algorithms/113_remove_duplicates_from_sorted_list_ii.py) | Medium | Linked List |
 | 128  | [Hash Function](https://www.lintcode.com/problem/hash-function/description) | [Python](algorithms/128_hash_code.py)                        | Easy       | Math             |
+| 134 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python](algorithms/134_lru_cache.py) | Hard | Linked List |
 | 138  | [Subarray Sum](https://www.lintcode.com/problem/subarray-sum/) | [Python](algorithms/138_subarray_sum.py)                     | Easy       | Integer Array    |
 | 139  | [Subarray Sum Closest](https://www.lintcode.com/problem/subarray-sum-closest/) | [Python](algorithms/139_subarray_sum_closest.py)             | Medium     | Integer Array    |
 | 140  | [Fast Power](https://www.lintcode.com/problem/fast-power/)   | [Python](algorithms/140_fast_power.py)                       | Medium     | Math             |
