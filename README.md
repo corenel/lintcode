@@ -87,6 +87,7 @@ LintCode Problems' Solutions
 | 420  | [Count and Say](https://www.lintcode.com/problem/count-and-say/) | [Python](algorithms/420_count_and_say.py)                    | Easy       | String           |
 | 422  | [Length of Last Word](https://www.lintcode.com/problem/length-of-last-word/) | [Python](algorithms/422_length_of_last_word.py)              | Easy       | String           |
 | 451 | [Swap Nodes in Pairs](https://www.lintcode.com/problem/swap-nodes-in-pairs/) | [Python](algorithms/451_swap_nodes_in_pairs.py) | Easy | Linked List |
+| 452 | [Remove Linked List Elements](https://www.lintcode.com/problem/remove-linked-list-elements/description) | [Python](algorithms/452_remove_linked_list_elements.py) | Easy | Linked List |
 | 488  | [Happy Number](https://www.lintcode.com/problem/happy-number/) | [Python](algorithms/488_happy_number.py)                     | Easy       | Math             |
 | 491 | [Palindrome Number](https://www.lintcode.com/problem/palindrome-number/) | [Python](algorithms/491_palindrome_number.py) | Easy | Math |
 | 517 | [Ugly Number](https://www.lintcode.com/problem/ugly-number/) | [Python](algorithms/517_ugly_number.py) | Easy | Math |
