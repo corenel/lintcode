@@ -73,8 +73,8 @@ def rotate_right(head, k):
     return node_k
 
 
-class TestMergeTwoSortedLists(unittest.TestCase):
-    def test_merge_two_sorted_lists(self):
+class TestRotateList(unittest.TestCase):
+    def test_rotate_list(self):
         def assert_operation(in_list, k, out_list):
             linked_list = generate_linked_list(in_list)
             head = rotate_right(linked_list.get_head(), k)
