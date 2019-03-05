@@ -65,6 +65,7 @@ LintCode Problems' Solutions
 | 163  | [Unique Binary Search Trees](https://www.lintcode.com/problem/unique-binary-search-trees/) | [Python](algorithms/163_unique_binary_search_trees.py)       | Medium     | Math             |
 | 165 | [Merge Two Sorted Lists](https://www.lintcode.com/problem/merge-two-sorted-lists/description) | [Python](algorithms/165_merge_two_sorted_lists.py) | Easy | Linked List |
 | 167 | [Add Two Numbers](https://www.lintcode.com/problem/add-two-numbers/) | [Python](algorithms/167_add_two_numbers.py) | Easy | Linked List |
+| 170 | [Rotate List](https://www.lintcode.com/problem/rotate-list/) | [Python](algorithms/170_rotate_list.py) | Medium | Linked List |
 | 171  | [Group Anagrams](http://www.lintcode.com/en/problem/anagrams/) | [Python](algorithms/171_group_anagrams.py)                   | Medium     | String           |
 | 172  | [Remove Element](http://www.lintcode.com/en/problem/remove-element/) | [Python](algorithms/172_remove_element.py)                   | Easy       | Integer Array    |
 | 173 | [Insertion Sort List](https://www.lintcode.com/problem/insertion-sort-list/) | [Python](algorithms/173_insertion_sort_list.py) | Medium | Linked List |
