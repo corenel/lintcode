@@ -36,6 +36,7 @@ LintCode Problems' Solutions
 | 65   | [Median of Two Sorted Arrays](https://www.lintcode.com/problem/median-of-two-sorted-arrays/) | [Python](algorithms/65_median_of_two_sorted_arrays.py)       | Hard       | Binary Search    |
 | 66 | [Binary Tree Preorder Traversal](https://www.lintcode.com/problem/binary-tree-preorder-traversal/description) | [Python](algorithms/66_binary_tree_preorder_traversal.py) | Easy | Binary Tree |
 | 67 | [Binary Tree Inorder Traversal](https://www.lintcode.com/problem/binary-tree-inorder-traversal/) | [Python](algorithms/67_binary_tree_inorder_traversal.py) | Medium | Binary Tree |
+| 70 | [Binary Tree Level Order Traversal II](https://www.lintcode.com/problem/binary-tree-level-order-traversal-ii/) | [Python](algorithms/70_binary_tree_level_order_traversal_ii.py) | Easy | Binary Tree |
 | 74   | [First Bad Version](https://www.lintcode.com/problem/first-bad-version/) | [Python](algorithms/74_first_bad_version.py)                 | Easy       | Binary Search    |
 | 75   | [Find Peak Element](https://www.lintcode.com/problem/find-peak-element/) | [Python](algorithms/75_find_peak_element.py)                 | Medium     | Binary Search    |
 | 79   | [Longest Common Substring](http://www.lintcode.com/en/problem/longest-common-substring/) | [Python](algorithms/79_longest_common_substring.py)          | Medium     | String           |
