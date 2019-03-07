@@ -23,7 +23,7 @@ Reference:
 
 import unittest
 
-from utils import TreeNode, BinaryTree
+from utils import TreeNode
 
 
 def inorder_traversal_recursive(root):
