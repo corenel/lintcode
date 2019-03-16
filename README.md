@@ -45,6 +45,7 @@ LintCode Problems' Solutions
 | 83   | [Single Number II](https://www.lintcode.com/problem/single-number-ii/) | [Python](algorithms/83_single_number_ii.py)                  | Medium     | Bit Manipulation |
 | 84   | [Single Number III](https://www.lintcode.com/problem/single-number-iii/) | [Python](algorithms/84_single_number_iii.py)                 | Medium     | Bit Manipulation |
 | 93 | [Balanced Binary Tree](https://www.lintcode.com/problem/balanced-binary-tree/) | [Python](algorithms/93_balanced_binary_tree.py) | Easy | Binary Tree |
+| 94 | [Binary Tree Maximum Path Sum](https://www.lintcode.com/problem/binary-tree-maximum-path-sum/) | [Python](algorithms/94_binary_tree_maximum_path_sum.py) | Medium | Binary Tree |
 | 96 | [Partition List](https://www.lintcode.com/problem/partition-list/) | [Python](algorithms/96_partition_list.py) | Easy | Linked List |
 | 97 | [Maximum Depth of Binary Tree](https://www.lintcode.com/problem/maximum-depth-of-binary-tree/) | [Python](algorithms/97_maximum_depth_of_binary_tree.py) | Easy | Binary Tree |
 | 98 | [Sort List](https://www.lintcode.com/problem/sort-list/) | [Python](algorithms/98_sort_list.py) | Medium | Linked List |
