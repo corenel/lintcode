@@ -68,6 +68,7 @@ LintCode Problems' Solutions
 | 158  | [Valid Anagram](https://www.lintcode.com/problem/valid-anagram) | [Python](algorithms/158_valid_anagram.py)                    | Easy       | String           |
 | 159  | [Find Minimum in Rotated Sorted Array](https://www.lintcode.com/problem/find-minimum-in-rotated-sorted-array/) | [Python](algorithms/159_find_minimum_in_rotated_sorted_array.py) | Medium     | Binary Search    |
 | 160  | [Find Minimum in Rotated Sorted Array II](https://www.lintcode.com/problem/search-in-rotated-sorted-array-ii/) | [Python](algorithms/160_find_minimum_in_rotated_sorted_array_ii.py) | Hard       | Binary Search    |
+| 161 | [Rotate Image](https://www.lintcode.com/problem/rotate-image/) | [Python](algorithms/161_rotate_image.py) | Medium | Integer Array |
 | 163  | [Unique Binary Search Trees](https://www.lintcode.com/problem/unique-binary-search-trees/) | [Python](algorithms/163_unique_binary_search_trees.py)       | Medium     | Math             |
 | 165 | [Merge Two Sorted Lists](https://www.lintcode.com/problem/merge-two-sorted-lists/description) | [Python](algorithms/165_merge_two_sorted_lists.py) | Easy | Linked List |
 | 167 | [Add Two Numbers](https://www.lintcode.com/problem/add-two-numbers/) | [Python](algorithms/167_add_two_numbers.py) | Easy | Linked List |
