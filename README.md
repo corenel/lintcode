@@ -78,6 +78,7 @@ LintCode Problems' Solutions
 | 172  | [Remove Element](http://www.lintcode.com/en/problem/remove-element/) | [Python](algorithms/172_remove_element.py)                   | Easy       | Integer Array    |
 | 173 | [Insertion Sort List](https://www.lintcode.com/problem/insertion-sort-list/) | [Python](algorithms/173_insertion_sort_list.py) | Medium | Linked List |
 | 174 | [Remove Nth Node From End of List](https://www.lintcode.com/problem/remove-nth-node-from-end-of-list/description) | [Python](algorithms/174_remove_nth_node_from_end_of_list.py) | Easy | Linked List |
+| 175 | [Invert Binary Tree](https://www.lintcode.com/problem/invert-binary-tree/) | [Python](algorithms/175_invert_binary_tree.py) | Easy | Binary Tree |
 | 179  | [Update Bits](https://www.lintcode.com/problem/update-bits/) | [Python](algorithms/179_update_bits.py)                      | Medium     | Bit Manipulation |
 | 181  | [Flip Bits](https://www.lintcode.com/problem/flip-bits/description) | [Python](algorithms/181_flip_bits.py)                        | Easy       | Bit Manipulation |
 | 183  | [Wood Cut](https://www.lintcode.com/problem/wood-cut/)       | [Python](algorithms/183_wood_cut.py)                         | Hard       | Binary Search    |
